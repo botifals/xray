@@ -13,7 +13,7 @@ rm -r updatedll
 # download
 #
 cd /usr/bin
-wget -O xmenu "https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/menu/xmenu.sh"
+wget -O xmenu "https://raw.githubusercontent.com/botifals/xray/main/menu/xmenu.sh"
 wget -O add-akun "https://raw.githubusercontent.com/botifals/xray/main/menu/add-akun.sh"
 wget -O updatedll "https://raw.githubusercontent.com/botifals/xray/main/menu/updatedll.sh"
 wget -O add-akun "https://raw.githubusercontent.com/botifals/xray/main/menu/add-akun.sh"
